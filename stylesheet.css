@@ -1,0 +1,49 @@
+.titulo{
+	text-align: center;
+	font-family: verdana;
+	font-size: 48px;
+}
+
+#deslizar{
+	font-size: 20px;
+	font-family: fantasy;
+}
+
+#boton2{
+	background-color: #82fefa;
+	margin-left: 500px;
+	margin-top: 50px;
+	top: 400px;
+	left:500px;
+	text-align: center;
+	width: 400px;
+	height: 100px;
+}
+
+#boton{
+	background-color: green;
+	font-size:60px;
+	text-align: center;
+	width: 300px;
+	height: 150px;
+	font-family: serif;
+	border-radius: 10px;
+}
+
+.crecer{
+	font-size: 60px;
+}
+
+.resaltar{
+	-webkit-box-shadow: 0 0 80px #FFD700;
+    -moz-box-shadow: 0 0 80px #FFD700;
+    box-shadow: 0 0 80px #FFD700;
+    cursor:pointer;
+}
+
+body{
+    background-image: url('imagenes/1.jpg');
+}
+
+
+
